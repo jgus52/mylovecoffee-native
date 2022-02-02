@@ -2,6 +2,10 @@
 
 방문했던 카페를 저장할 수 있는 SNS 서비스입니다.
 
+React Native
+
+backend Url: https://github.com/jgus52/mylovecoffee-backend
+
 ## Add
 
 로그인되어 있으면 add 버튼이 활성화되고 누르면 add 스크린으로 이동 Input에 정보
